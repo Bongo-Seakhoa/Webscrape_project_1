@@ -6,6 +6,6 @@ Write a Python algorithm that finds websites with the format `https://12695.port
 Every site has the same format "welcome to the _ patient portal"- so we would just need the algorithm to run through all the different available variations of the URL format and then pull the URL and the portal and the "welcome to the _ patient portal" part of the site into an excel file.
 
 Libraries used :
-- Beautiful Soup[here](https://pypi.org/project/beautifulsoup4/)
-- Pandas[here](https://pandas.pydata.org/)
-- requests[here](https://pypi.org/project/requests/)
+- Beautiful Soup [click here](https://pypi.org/project/beautifulsoup4/)
+- Pandas [click here](https://pandas.pydata.org/)
+- requests [click here](https://pypi.org/project/requests/)
